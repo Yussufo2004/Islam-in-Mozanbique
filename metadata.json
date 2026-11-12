@@ -1,0 +1,6 @@
+{
+  "name": "Islam in Mozambique",
+  "description": "Aplicação islâmica moderna de apoio ao quotidiano, orações, aprendizagem e comunidade em Moçambique e no mundo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
